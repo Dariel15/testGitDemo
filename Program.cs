@@ -1,7 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
-Console.WriteLine("Hello, C# Mabuhay! Nagbago ka na ><");
+﻿void MyFirstMethod()
+{
+    //Do something
+}
+
+void MySecondMethod()
+{
+    //Do something
+}
+
+void MyThirdMethod()
+{
+    //Do something
+}
